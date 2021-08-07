@@ -1,0 +1,11 @@
+# Data structures and algorithms
+- [ ] Linked List
+- [ ] Stacks and Queues
+- [ ] Heaps
+- [ ] Hash Tables
+- [ ] Recursion
+- [ ] Searching
+- [ ] Sorting
+- [ ] Binary Search Trees
+- [ ] Dynamic Programming
+- [ ] Graphs
